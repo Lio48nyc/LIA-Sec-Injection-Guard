@@ -1,0 +1,5 @@
+
+# LIA-Sec Injection Guard
+# Python 3.10+
+# No external dependencies required.
+
